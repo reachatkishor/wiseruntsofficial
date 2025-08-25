@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- Dark cosmic background -->
+  <rect width="32" height="32" fill="#000000"/>
+  
+  <!-- Scattered stars -->
+  <circle cx="4" cy="5" r="0.5" fill="#ffffff"/>
+  <circle cx="28" cy="7" r="0.3" fill="#ffffff"/>
+  <circle cx="26" cy="25" r="0.4" fill="#ffffff"/>
+  <circle cx="6" cy="28" r="0.3" fill="#ffffff"/>
+  <circle cx="23" cy="14" r="0.3" fill="#ffffff"/>
+  <circle cx="9" cy="18" r="0.2" fill="#ffffff"/>
+  
+  <!-- Simple "W" with glow effect -->
+  <text x="16" y="22" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="#ffffff" 
+        style="filter: drop-shadow(0 0 3px rgba(255,255,255,0.8));">W</text>
+</svg>
